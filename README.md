@@ -7,9 +7,6 @@ $ cd project && npm start
 
 $ npm start
 
+![image](https://github.com/1453925044/Project/blob/master/static/img/index.png)
 
-首页展示
-![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
-
-订单支付
 ![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
