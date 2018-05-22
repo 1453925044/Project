@@ -4,7 +4,7 @@ Project
 
 运行方式
 
-$ cd project && npm start
+$ cd project && npm install
 
 $ npm start
 
