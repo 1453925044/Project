@@ -1,7 +1,8 @@
-"# Project" 
-###一个基于node.js+mysql构建的项目
-*运行方式
-```bash
+Project
+
+一个基于node.js+mysql构建的项目
+
+运行方式
 
 $ cd project && npm start
 
